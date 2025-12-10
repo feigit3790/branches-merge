@@ -4,4 +4,8 @@ const a = () => {
 
 const c = () => {
     console.log("This is a test.");
+
+const b = () => {
+    console.log("Hello, Console!");
+
 }
